@@ -1,0 +1,11 @@
+Install JSON Server package:
+npm install -g json-server
+
+Run JSON Server:
+json-server --watch data/db.json
+
+JSON Server url and port:
+http://localhost:3000/
+
+Github docs:
+https://github.com/typicode/json-server

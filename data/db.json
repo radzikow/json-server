@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas ipsum eget dapibus suscipit. Nulla consequat quis urna et scelerisque. Vestibulum ullamcorper et urna id blandit. Vivamus id euismod velit. Quisque vel magna ut purus pretium efficitur. Nunc commodo tortor diam, aliquet.",
+      "likes": 8
+    },
+    {
+      "id": 2,
+      "title": "How to be a net ninja",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas ipsum eget dapibus suscipit. Nulla consequat quis urna et scelerisque. Vestibulum ullamcorper et urna id blandit. Vivamus id euismod velit. Quisque vel magna ut purus pretium efficitur. Nunc commodo tortor diam, aliquet.",
+      "likes": 23
+    },
+    {
+      "id": 3,
+      "title": "New Vue course coming soon",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas ipsum eget dapibus suscipit. Nulla consequat quis urna et scelerisque. Vestibulum ullamcorper et urna id blandit. Vivamus id euismod velit. Quisque vel magna ut purus pretium efficitur. Nunc commodo tortor diam, aliquet.",
+      "likes": 34
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vie or React",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
