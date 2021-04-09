@@ -12,6 +12,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 nav h1 {
   margin: 0;
@@ -36,4 +37,29 @@ input, textarea {
 }
 textarea {
   min-height:200px;
+}
+.blogs {
+  margin-top: 20px;
+}
+.blogs h2 {
+  margin-top: 0;
+}
+.posts {
+  background: #e1e2e2;
+  border-radius: 20px;
+  padding: 18px 20px;
+  margin-bottom: 20px;
+}
+.posts div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.posts div a {
+  text-decoration: none;
+  color: white;
+  background: #36cca2;
+  border-radius: 5px;
+  padding: 3px 13px;
+  font-size: 14px;
 }
